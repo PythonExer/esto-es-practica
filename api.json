@@ -1,9 +1,14 @@
 [
     {
-        "id":"hola"
+        "usuario":"freddy",
+        "edad":"29 años",
+        "estadoCivil":"soltero"
+    
     },
     {
-        "name":"Oscar"
+        "usuario":"carlos",
+        "edad":"24 años",
+        "estadoCivil":"casado"
+    
     }
-
 ]
